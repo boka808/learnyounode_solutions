@@ -3,6 +3,7 @@ Notes on nodejs
 
 Callback function simplification
 --------------------------------
+
 callback function automagically takes in the data as input...
 if only one action needs to be taken on it, this is a valid statement:
 
